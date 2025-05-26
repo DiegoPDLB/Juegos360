@@ -32,8 +32,15 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ------------------------------------------------------------------
 
---> Siguiente aquí
+## [0.0.0] - 26/05/2025
+### Agregado
+- ¿Qué se hizo implementó ese día? (EN CASO DE APLICAR)
 
+### Cambiado
+- ¿Qué se actualizó? (EN CASO DE APLICAR)
+
+### Corregido
+- ¿Qué se arregló? (EN CASO DE APLICAR)
 ------------------------------------------------------------------
 
 --> Plantilla de changelog <--
