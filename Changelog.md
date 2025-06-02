@@ -32,8 +32,24 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/en/1.1.
 
 ------------------------------------------------------------------
 
---> Siguiente aquí
+## [0.0.0] - 30/05/2025
+### Agregado
+- Se agregó texturas al tablero.
 
+### Cambiado
+- Vista de juego a un nivel aereo del tablero.
+
+### Corregido
+- Se reacomodaron las proporciones del tablero.
+
+------------------------------------------------------------------
+
+## [0.0.0] - 31/05/2025
+### Agregado
+- Personaje de bombero.
+- Personaje de Platano.
+- Personaje de Quico.
+- Persoanje de Shrek Wazowsky.
 ------------------------------------------------------------------
 
 --> Plantilla de changelog <--
